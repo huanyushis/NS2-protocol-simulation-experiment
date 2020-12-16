@@ -9,7 +9,4 @@ PATH=/home/edison/bin:/home/edison/.local/bin:/usr/local/sbin:/usr/local/bin:/us
 export PATH
 
 ns a.tcl
-
-conda activate base
-
-python ns2.py out.tr
+python3 ns2.py out.tr
